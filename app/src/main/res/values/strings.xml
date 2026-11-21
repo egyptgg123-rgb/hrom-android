@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хром</string>
+    <string name="accessibility_description">Позволяет голосовому ассистенту Хром читать экран и нажимать кнопки в других приложениях по вашей команде.</string>
+</resources>
